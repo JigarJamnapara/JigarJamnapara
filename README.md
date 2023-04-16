@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Backend web developer from India.</h3> 
 
-<img align="right" alt="Coder" src="img/images.jfif">
+<img align="right" alt="Coder" src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
 <br>
 <a href="https://twitter.com/anandnbarai" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
