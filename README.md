@@ -61,7 +61,7 @@
 &nbsp;
 <img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 &nbsp;
-<img title="MS Windows" alt="microsoft windows" width="30px" src=https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
+<img title="Ubuntu" alt="Ubuntu" width="30px" src=https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
 &nbsp;
 </p>
 
