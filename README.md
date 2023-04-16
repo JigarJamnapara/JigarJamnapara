@@ -5,31 +5,30 @@
 
 <img align="right" alt="Coder" src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
 <br>
-<a href="https://twitter.com/anandnbarai" target="_blank" rel="noreferrer"> 
+<a href="https://twitter.com/jigarjamnapara" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 
-<a href="https://www.github.com/anandnbarai" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/JigarJamnapara" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 
 
 ## 🙋 About me :
 
-🎯 I’m currently learning **PHP, MySQL & JavaScript** <br>
-👨🏭 **Mechanical Graduate** <br>
+🎯 I’m currently learning **PHP, MySQL,JavaScript, React, Wordpress, Laravel** <br>
 🤩 Always excited and ready to **learn new skills👨🎓** <br>
-😍 Love Watching Movies 📽️, Photography📸, Reading 📖 <br>
-📫 How to reach me : ab20892@gmail.com
+😍 Love Watching Movies 📽️, Reading 📖 <br>
+📫 How to reach me : jigar.jamnapara@gmail.com
 
 
 ## 🌐 Connect with Me 
 
-<a href="https://www.linkedin.com/in/anandnbarai">
+<a href="https://www.linkedin.com/in/jigarjamnapara">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />             
 </a> 
-<a href="https://twitter.com/anandnbarai">
+<a href="https://twitter.com/jigarjamnapara">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/barai_anand">
+<a href="https://www.instagram.com/jigarjamnapara">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -48,6 +47,10 @@
 <img title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px" heigth="50px">
 &nbsp
 <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
+&nbsp
+<img title="Laravel" alt="Laravel" src="https://www.zend.com/sites/default/files/image/2019-09/logo-laravel.jpg" width="40px" height="40px">
+&nbsp
+<img title="Wordpress" alt="Wordpress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40px" height="40px">
 &nbsp
 
 <h2>:hammer_and_wrench: Tools I use</h2>
