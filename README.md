@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate QA Manual Tester from India.</h3> 
 
-<img align="right" alt="Coder" src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
+<img align="right" alt="Tester" src="https://wallpaperaccess.com/full/12543057.jpg">
 <br>
 <a href="https://twitter.com/jigarjamnapara" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/twitter/follow/jigar_jamnapara?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
@@ -15,8 +15,8 @@
 ## 🙋 About me :
 
 🎯 I’m currently learning **Accessability(DHS Certified) Manul Testing, Playwright With JS/TS, API Testing** <br>
-🤩 Always excited and ready to **learn new skills👨🎓** <br>
-😍 Love Watching Technology Video,Reading 📖 <br>
+🤩 Always excited and ready to **learn new skills** <br>
+😍 Love Watching **Technology Video,Reading**  <br>
 📫 How to reach me : jigar.jamnapara@gmail.com
 
 
@@ -47,8 +47,6 @@
 <img title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px" heigth="50px">
 &nbsp
 <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
-&nbsp
-<img title="Laravel" alt="Laravel" src="https://www.zend.com/sites/default/files/image/2019-09/logo-laravel.jpg" width="40px" height="40px">
 &nbsp
 <img title="Wordpress" alt="Wordpress" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40px" height="40px">
 &nbsp
