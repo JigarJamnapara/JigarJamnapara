@@ -14,9 +14,9 @@
 
 ## 🙋 About me :
 
-🎯 I’m currently learning **PHP, MySQL,JavaScript, React, Wordpress, Laravel** <br>
+🎯 I’m currently learning **Accessability(DHS Certified) Manul Testing, Playwright With JS/TS, API Testing** <br>
 🤩 Always excited and ready to **learn new skills👨🎓** <br>
-😍 Love Watching Movies 📽️, Reading 📖 <br>
+😍 Love Watching Technology Video,Reading 📖 <br>
 📫 How to reach me : jigar.jamnapara@gmail.com
 
 
